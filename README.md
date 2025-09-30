@@ -12,8 +12,7 @@ gemini ai
    
 # Collaboration usage
 Explain how you are ***using others*** to complete the assignment in this section. Are they simply copying, learn the ideas, learn how to adapt the AI or anything involving the process. State the people if any & Please be elaborate. Declare self tought if you solved this by yourself. 
-
-
+saya dan oshea berkerja sama menemukan solusi dan mempelajari ide dari konsep convex hull ini 
 
 # Commit Rules
 Use .gitignore to stripe any binaries from the resulting build before commit.  If you cloned directly from the template, you are safe. 
